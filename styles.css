@@ -1,0 +1,149 @@
+/* header {
+    
+    height: 4rem;
+    color: #fff;
+    padding: 0px;
+    padding-top: 5px;    
+} */
+nav{
+    display: flex;
+    top: 33px;
+    left: 41px;
+    width: 194px;
+    height: 62px;
+    /* margin: auto; */
+    /* padding: 20px 0px;
+    align-items: center;
+    justify-content: space-between; */
+}
+nav a {
+    color:white;
+    text-decoration: none;
+}
+
+nav a:hover {
+    color: #f0f0f0;
+}
+
+nav ul {
+    display: flex;
+    justify-content: flex-end;
+    list-style: none;
+}
+
+nav li {
+    display: inline-block;
+    margin-right: 20px;
+}
+
+/* nav ul li{
+    top: 48px;
+    left: 1171px;
+    width: 209px;
+    height: 14px;
+    margin :auto;
+   
+text-align: left;
+letter-spacing: 0px;
+color: #F7F7F7;
+opacity: 1;
+    /* display: inline-block;
+    list-style: none;
+    margin: 10px 20px; */
+/* } */ 
+
+nav1{
+top: 0px;
+left: 720px;
+width: 720px;
+height: 810px;
+}
+.detel h1{
+top: 359px;
+left: 60px;
+width: 571px;
+height: 162px;
+}
+
+.detel p{
+top: 542px;
+left: 60px;
+width: 440px;
+height: 108px;
+}
+
+.dogs{
+    top: 0px;
+    left: 720px;
+    width: 720px;
+    height: 810px;
+    position: absolute;
+    right: 100px;
+   
+    /* background: transparent url('Cat-N-Dog-Logo\ copy.png') 0% 0% no-repeat padding-box; */
+   /* opacity: 0.9; */
+}
+
+.dogs .text{
+    position: absolute;
+    top: 57%;
+    /* background: rgb(0, 0, 0); */
+    background: rgba(0, 0, 0, 0.2);
+    color: #ffffff;
+    width: 94%;
+    padding: 20px;
+   /* left:50px */
+/* color: #FFE8DF;
+opacity: 1; */
+}
+
+
+.appleGP{
+margin-top: 15%;
+}
+
+.appleGP sat{
+    top: 706px;
+    left: 60px;
+    width: 160px;
+    height: 53px;
+    /* background: transparent url('img/AppStoreBadge.png') 0% 0% no-repeat padding-box;
+    opacity: 1; */
+    }
+
+.appleGP agr{
+    top: 693px;
+    left: 232px;
+    width: 207px;
+    height: 80px;
+    /* background: transparent url(google-play-badge.png) 0% 0% no-repeat padding-box;
+    opacity: 1; */
+    }
+
+.appleGP fb{
+    top: 762px;
+left: 1326px;
+width: 10px;
+height: 11px;
+
+background: transparent url('img/FB-icon-black.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.appleGP linked{
+    top: 762px;
+left: 1348px;
+width: 11px;
+height: 11px;
+background: transparent url('img/linkedin-icon-black.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
+
+.appleGP twit{
+    top: 762px;
+left: 1370px;
+width: 11px;
+height: 11px;
+background: transparent url('img/Twitter-icon-black.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
